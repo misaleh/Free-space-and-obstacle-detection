@@ -4,8 +4,9 @@
 This impelementaion is based on [Free Space Computation Using Stochastic Occupancy Grids and Dynamic Programming](http://vision.jhu.edu/iccv2007-wdv/WDV07-badino.pdf)
 with some modifications.
 
-The code is tested with Zed stereo camera and nvidia jetson tk1, and the parameters depend on the camera(calibraion) and the position 
-of the camera.
+The code is tested with Zed stereo camera and nvidia jetson tk1, and the parameters depend on the camera(calibraion) and the position of the camera.
+
+This repo is still under development.
 
 To make cpu and gpu code
 
@@ -57,7 +58,7 @@ type `make gpu` then `make run_gpu`
 
 <img src="output/projectedImgDP.png" width="400" >
 
-**GPU Implementation**(under development)
+**GPU Implementation**
 
 <img src="output/FreespaceGPU.png" width="400" >
 
