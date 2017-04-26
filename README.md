@@ -14,7 +14,7 @@ type `make` then `make run`
 
 To make CPU only, remove `#define GPU` from `main.cpp`
 
-type `make cpu` then make run_cpu
+type `make cpu` then `make run_cpu`
 
 To make GPU only, remove `#define CPU` from `main.cpp`
 
@@ -33,7 +33,7 @@ type `make gpu` then `make run_gpu`
 <img src="output/polargrid1.png" width="400">
 
 
-**cartesian Occypancy Grid with different sizes**
+**Cartesian Occypancy Grid with different sizes**
 
 
 <img src="output/grid.png" width="400" >
